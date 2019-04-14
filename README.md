@@ -17,6 +17,11 @@ The first step is record the connecting between PC and github.com:
     c)add your ssh key that generated in b) in guthub.com
 2)downlaod code from github to PC.
 
+The second step is familiar some git skill:
+1) git push developer branch to master branch command
+    git push origin HEAD:master
+    
+
 
 
 
