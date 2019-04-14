@@ -15,6 +15,7 @@ I create a new branch,named dev.
 =======
 
 actually,I think github is a good palce to share, but sometimes I don't know how to use it more effective.
+
 The first step is record the connecting between PC and github.com:
 1)setup git in your PC
     a)setting git config(git config --global user.name/email "") 
