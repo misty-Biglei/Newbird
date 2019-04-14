@@ -22,6 +22,9 @@ The second step is familiar some git skill:
     git push origin HEAD:master
     
 
+try to figure out the master branch is fast forward than dev branch,if you want submit code in dev branch,how todo.
+try rebase in master before than dev branch
+
 
 
 
