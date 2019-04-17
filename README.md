@@ -6,6 +6,12 @@ It's hard to thinking that i'am still a newBird even passed two years since I kn
 And this is also a vacant period for my coding.
 From now on, I need more active in GitHub.
 
+
+I create a new branch,named dev.
+
+actually,I think github is a good palce to share, but sometimes I don't know how to use it more effective.
+
+
 After create a new branch,I need merge it to master.
 
 actually,I think github is a good palce to share, but sometimes I don't know how to use it more effective.
@@ -24,6 +30,7 @@ The second step is familiar some git skill:
 
 try to figure out the master branch is fast forward than dev branch,if you want submit code in dev branch,how todo.
 try rebase in master before than dev branch
+
 
 
 
